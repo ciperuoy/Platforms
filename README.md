@@ -1,0 +1,2 @@
+# Platforms
+Platforms for Capuchin!
